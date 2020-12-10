@@ -1,0 +1,9 @@
+beautifulsoup4
+requests==2.22.0
+pathlib
+tensorflow
+keras
+pytest-shutil
+opencv-python
+numpy
+psycopg2
